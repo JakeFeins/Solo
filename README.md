@@ -1,2 +1,2 @@
 # Solo
-Working alone on a homemade CS Degree
+My pet projects and miscellaneous programs I wrote to solve miscellaneous problems.
